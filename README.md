@@ -1,4 +1,4 @@
-![Logo do Ubuntu 20.04 lts](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Arch_Linux_logo.svg/1280px-Arch_Linux_logo.svg.png "Logo do Ubuntu")
+![Logo do Ubuntu 20.04 lts](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/1280px-Former_Ubuntu_logo.svg.png "Logo do Ubuntu")
 
 
 # Configuração do Ubuntu 20.04 lts. E Downloads de alguns aplicativos utilizados.
